@@ -1,6 +1,6 @@
 # systeminfo
 
-_Generated: 2026-10-13 15:57:06_
+_Generated: 2026-10-13 15:58:18_
 
 ```
 
@@ -28,10 +28,10 @@ System Locale:             en-us;English (United States)
 Input Locale:              en-us;English (United States)
 Time Zone:                 (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna
 Total Physical Memory:     2,047 MB
-Available Physical Memory: 857 MB
+Available Physical Memory: 828 MB
 Virtual Memory: Max Size:  4,095 MB
-Virtual Memory: Available: 2,903 MB
-Virtual Memory: In Use:    1,192 MB
+Virtual Memory: Available: 2,850 MB
+Virtual Memory: In Use:    1,245 MB
 Page File Location(s):     C:\pagefile.sys
 Domain:                    WORKGROUP
 Logon Server:              \\DESKTOP-WHKCJGF
