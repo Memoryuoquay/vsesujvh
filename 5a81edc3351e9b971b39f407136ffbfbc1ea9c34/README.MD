@@ -1,6 +1,6 @@
 # systeminfo
 
-_Generated: 2026-10-13 12:38:25_
+_Generated: 2026-10-13 12:39:35_
 
 ```
 
@@ -28,10 +28,10 @@ System Locale:             en-us;English (United States)
 Input Locale:              en-us;English (United States)
 Time Zone:                 (UTC-08:00) Pacific Time (US & Canada)
 Total Physical Memory:     4,195 MB
-Available Physical Memory: 3,046 MB
+Available Physical Memory: 3,054 MB
 Virtual Memory: Max Size:  5,667 MB
-Virtual Memory: Available: 4,578 MB
-Virtual Memory: In Use:    1,089 MB
+Virtual Memory: Available: 4,581 MB
+Virtual Memory: In Use:    1,086 MB
 Page File Location(s):     C:\pagefile.sys
 Domain:                    WORKGROUP
 Logon Server:              \\DESKTOP-ET51AJO
