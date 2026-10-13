@@ -1,6 +1,6 @@
 # systeminfo
 
-_Generated: 2026-10-13 15:55:54_
+_Generated: 2026-10-13 15:56:08_
 
 ```
 
@@ -28,10 +28,10 @@ System Locale:             en-us;English (United States)
 Input Locale:              en-us;English (United States)
 Time Zone:                 (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna
 Total Physical Memory:     2,047 MB
-Available Physical Memory: 1,018 MB
+Available Physical Memory: 1,024 MB
 Virtual Memory: Max Size:  4,095 MB
-Virtual Memory: Available: 3,108 MB
-Virtual Memory: In Use:    987 MB
+Virtual Memory: Available: 3,114 MB
+Virtual Memory: In Use:    981 MB
 Page File Location(s):     C:\pagefile.sys
 Domain:                    WORKGROUP
 Logon Server:              \\DESKTOP-BTTYBJQ
