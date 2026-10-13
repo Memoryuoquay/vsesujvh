@@ -1,0 +1,56 @@
+# systeminfo
+
+_Generated: 2026-10-13 12:38:25_
+
+```
+
+Host Name:                 DESKTOP-ET51AJO
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.19044 N/A Build 19044
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Bruno
+Registered Organization:   
+Product ID:                97063-563-4069694-61257
+Original Install Date:     2/14/2024, 4:38:00 PM
+System Boot Time:          10/13/2026, 12:37:11 PM
+System Manufacturer:       QEMU
+System Model:              Standard PC (Q35 + ICH9, 2009)
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 85 Stepping 7 GenuineIntel ~2800 Mhz
+BIOS Version:              SeaBIOS rel-1.16.3-4-g163fd9f0-dirty-20240307_191320-cape-base, 11/3/2018
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-08:00) Pacific Time (US & Canada)
+Total Physical Memory:     4,195 MB
+Available Physical Memory: 3,046 MB
+Virtual Memory: Max Size:  5,667 MB
+Virtual Memory: Available: 4,578 MB
+Virtual Memory: In Use:    1,089 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\DESKTOP-ET51AJO
+Hotfix(s):                 4 Hotfix(s) Installed.
+                           [01]: KB5004331
+                           [02]: KB5003791
+                           [03]: KB5006670
+                           [04]: KB5005699
+Network Card(s):           1 NIC(s) Installed.
+                           [01]: Intel(R) 82574L Gigabit Network Connection
+                                 Connection Name: Ethernet
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     172.16.1.1
+                                 IP address(es)
+                                 [01]: 172.16.1.2
+                                 [02]: fe80::d0cc:6f7a:ae69:655f
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
+
+```
