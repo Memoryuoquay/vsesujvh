@@ -1,6 +1,6 @@
 # systeminfo
 
-_Generated: 2026-10-13 08:13:52_
+_Generated: 2026-10-13 08:14:20_
 
 ```
 
@@ -28,10 +28,10 @@ System Locale:             en-us;English (United States)
 Input Locale:              en-us;English (United States)
 Time Zone:                 (UTC-08:00) Pacific Time (US & Canada)
 Total Physical Memory:     16,384 MB
-Available Physical Memory: 277 MB
+Available Physical Memory: 295 MB
 Virtual Memory: Max Size:  2,752 MB
-Virtual Memory: Available: 2,064 MB
-Virtual Memory: In Use:    688 MB
+Virtual Memory: Available: 2,086 MB
+Virtual Memory: In Use:    666 MB
 Page File Location(s):     C:\pagefile.sys
 Domain:                    WORKGROUP
 Logon Server:              \\MANSHAR
