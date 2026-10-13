@@ -1,6 +1,6 @@
 # systeminfo
 
-_Generated: 2026-10-13 23:35:37_
+_Generated: 2026-10-13 23:35:51_
 
 ```
 
@@ -20,7 +20,7 @@ System Model:              Virtual Machine
 System Type:               x64-based PC
 Processor(s):              1 Processor(s) Installed.
                            [01]: Intel64 Family 6 Model 106 Stepping 6 GenuineIntel ~2793 Mhz
-BIOS Version:              American Megatrends Inc. e, 
+BIOS Version:              American Megatrends Inc. , 
 Windows Directory:         C:\Windows
 System Directory:          C:\Windows\system32
 Boot Device:               \Device\HarddiskVolume1
@@ -28,7 +28,7 @@ System Locale:             en-us;English (United States)
 Input Locale:              en-us;English (United States)
 Time Zone:                 (UTC+08:00) Taipei
 Total Physical Memory:     4,096 MB
-Available Physical Memory: 2,888 MB
+Available Physical Memory: 2,889 MB
 Virtual Memory: Max Size:  4,800 MB
 Virtual Memory: Available: 3,768 MB
 Virtual Memory: In Use:    1,032 MB
