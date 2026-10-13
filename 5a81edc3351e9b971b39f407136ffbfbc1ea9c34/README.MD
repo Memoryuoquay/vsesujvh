@@ -1,6 +1,6 @@
 # systeminfo
 
-_Generated: 2026-10-13 12:39:35_
+_Generated: 2026-10-13 12:42:05_
 
 ```
 
@@ -12,9 +12,9 @@ OS Configuration:          Standalone Workstation
 OS Build Type:             Multiprocessor Free
 Registered Owner:          Bruno
 Registered Organization:   
-Product ID:                97063-563-4069694-61257
+Product ID:                87164-696-9198869-97632
 Original Install Date:     2/14/2024, 4:38:00 PM
-System Boot Time:          10/13/2026, 12:37:11 PM
+System Boot Time:          10/13/2026, 12:41:00 PM
 System Manufacturer:       QEMU
 System Model:              Standard PC (Q35 + ICH9, 2009)
 System Type:               x64-based PC
@@ -28,10 +28,10 @@ System Locale:             en-us;English (United States)
 Input Locale:              en-us;English (United States)
 Time Zone:                 (UTC-08:00) Pacific Time (US & Canada)
 Total Physical Memory:     4,195 MB
-Available Physical Memory: 3,054 MB
+Available Physical Memory: 3,011 MB
 Virtual Memory: Max Size:  5,667 MB
-Virtual Memory: Available: 4,581 MB
-Virtual Memory: In Use:    1,086 MB
+Virtual Memory: Available: 4,580 MB
+Virtual Memory: In Use:    1,087 MB
 Page File Location(s):     C:\pagefile.sys
 Domain:                    WORKGROUP
 Logon Server:              \\DESKTOP-ET51AJO
