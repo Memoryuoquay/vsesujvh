@@ -1,6 +1,6 @@
 # systeminfo
 
-_Generated: 2026-10-14 12:56:27_
+_Generated: 2026-10-14 12:57:32_
 
 ```
 
@@ -28,10 +28,10 @@ System Locale:             uk;українська
 Input Locale:              uk;українська
 Time Zone:                 (UTC+02:00) В?льнюс, Гельс?нк?, Київ, Рига, Соф?я, Талл?нн
 Total Physical Memory:     8 035 MB
-Available Physical Memory: 4 177 MB
+Available Physical Memory: 4 174 MB
 Virtual Memory: Max Size:  9 315 MB
-Virtual Memory: Available: 5 205 MB
-Virtual Memory: In Use:    4 110 MB
+Virtual Memory: Available: 5 215 MB
+Virtual Memory: In Use:    4 100 MB
 Page File Location(s):     C:\pagefile.sys
 Domain:                    WORKGROUP
 Logon Server:              \\SEKRETAR
