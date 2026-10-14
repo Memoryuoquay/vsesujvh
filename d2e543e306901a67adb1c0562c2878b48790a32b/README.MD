@@ -1,6 +1,6 @@
 # systeminfo
 
-_Generated: 2026-10-14 12:33:40_
+_Generated: 2026-10-14 12:34:45_
 
 ```
 
@@ -28,7 +28,7 @@ System Locale:             uk;українська
 Input Locale:              uk;українська
 Time Zone:                 (UTC+02:00) В?льнюс, Гельс?нк?, Київ, Рига, Соф?я, Талл?нн
 Total Physical Memory:     8 035 MB
-Available Physical Memory: 4 384 MB
+Available Physical Memory: 4 383 MB
 Virtual Memory: Max Size:  9 315 MB
 Virtual Memory: Available: 5 572 MB
 Virtual Memory: In Use:    3 743 MB
