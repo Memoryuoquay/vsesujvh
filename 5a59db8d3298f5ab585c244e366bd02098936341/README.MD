@@ -1,6 +1,6 @@
 # systeminfo
 
-_Generated: 2026-10-24 20:19:40_
+_Generated: 2026-10-24 20:19:52_
 
 ```
 
@@ -30,8 +30,8 @@ Time Zone:                     (UTC-08:00) Pacific Time (US & Canada)
 Total Physical Memory:         4,093 MB
 Available Physical Memory:     2,622 MB
 Virtual Memory: Max Size:      4,093 MB
-Virtual Memory: Available:     2,929 MB
-Virtual Memory: In Use:        1,164 MB
+Virtual Memory: Available:     2,928 MB
+Virtual Memory: In Use:        1,165 MB
 Page File Location(s):         N/A
 Domain:                        WORKGROUP
 Logon Server:                  \\COMPUTER-01PR70
