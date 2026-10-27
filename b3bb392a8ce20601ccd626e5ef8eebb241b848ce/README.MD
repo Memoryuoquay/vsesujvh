@@ -1,6 +1,6 @@
 # systeminfo
 
-_Generated: 2026-10-20 07:47:26_
+_Generated: 2026-10-27 02:35:30_
 
 ```
 
@@ -14,7 +14,7 @@ Registered Owner:          N/A
 Registered Organization:   N/A
 Product ID:                00331-20350-04713-AA955
 Original Install Date:     1/9/2025, 9:10:06 AM
-System Boot Time:          10/20/2026, 7:37:19 AM
+System Boot Time:          10/27/2026, 2:28:36 AM
 System Manufacturer:       Gigabyte Technology Co., Ltd.
 System Model:              B760M AORUS ELITE AX
 System Type:               x64-based PC
@@ -28,10 +28,10 @@ System Locale:             en-us;English (United States)
 Input Locale:              en-us;English (United States)
 Time Zone:                 (UTC-08:00) Pacific Time (US & Canada)
 Total Physical Memory:     4,093 MB
-Available Physical Memory: 2,905 MB
+Available Physical Memory: 2,918 MB
 Virtual Memory: Max Size:  4,093 MB
-Virtual Memory: Available: 3,019 MB
-Virtual Memory: In Use:    1,074 MB
+Virtual Memory: Available: 3,031 MB
+Virtual Memory: In Use:    1,062 MB
 Page File Location(s):     N/A
 Domain:                    WORKGROUP
 Logon Server:              \\DESK-2GJ3JHQM57
