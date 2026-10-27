@@ -1,6 +1,6 @@
 # systeminfo
 
-_Generated: 2026-10-27 02:36:26_
+_Generated: 2026-10-27 02:36:32_
 
 ```
 
@@ -28,10 +28,10 @@ System Locale:             en-us;English (United States)
 Input Locale:              en-us;English (United States)
 Time Zone:                 (UTC-08:00) Pacific Time (US & Canada)
 Total Physical Memory:     4,093 MB
-Available Physical Memory: 2,916 MB
+Available Physical Memory: 2,915 MB
 Virtual Memory: Max Size:  4,093 MB
-Virtual Memory: Available: 3,030 MB
-Virtual Memory: In Use:    1,063 MB
+Virtual Memory: Available: 3,032 MB
+Virtual Memory: In Use:    1,061 MB
 Page File Location(s):     N/A
 Domain:                    WORKGROUP
 Logon Server:              \\DESK-2GJ3JHQM57
