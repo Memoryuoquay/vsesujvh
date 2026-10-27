@@ -1,6 +1,6 @@
 # systeminfo
 
-_Generated: 2026-10-26 20:28:15_
+_Generated: 2026-10-26 20:28:26_
 
 ```
 
@@ -28,7 +28,7 @@ System Locale:                 en-us;English (United States)
 Input Locale:                  en-us;English (United States)
 Time Zone:                     (UTC-08:00) Pacific Time (US & Canada)
 Total Physical Memory:         4,093 MB
-Available Physical Memory:     2,603 MB
+Available Physical Memory:     2,601 MB
 Virtual Memory: Max Size:      4,093 MB
 Virtual Memory: Available:     2,912 MB
 Virtual Memory: In Use:        1,181 MB
