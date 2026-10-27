@@ -1,6 +1,6 @@
 # systeminfo
 
-_Generated: 2026-10-26 20:26:57_
+_Generated: 2026-10-26 20:27:09_
 
 ```
 
@@ -28,10 +28,10 @@ System Locale:                 en-us;English (United States)
 Input Locale:                  en-us;English (United States)
 Time Zone:                     (UTC-08:00) Pacific Time (US & Canada)
 Total Physical Memory:         4,093 MB
-Available Physical Memory:     2,588 MB
+Available Physical Memory:     2,595 MB
 Virtual Memory: Max Size:      4,093 MB
-Virtual Memory: Available:     2,902 MB
-Virtual Memory: In Use:        1,191 MB
+Virtual Memory: Available:     2,913 MB
+Virtual Memory: In Use:        1,180 MB
 Page File Location(s):         N/A
 Domain:                        WORKGROUP
 Logon Server:                  \\DESKTOP-P6BDFUL
