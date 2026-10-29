@@ -1,6 +1,6 @@
 # systeminfo
 
-_Generated: 2026-10-29 09:33:06_
+_Generated: 2026-10-29 09:33:13_
 
 ```
 
@@ -30,8 +30,8 @@ Time Zone:                 (UTC-08:00) Pacific Time (US & Canada)
 Total Physical Memory:     4,093 MB
 Available Physical Memory: 2,909 MB
 Virtual Memory: Max Size:  4,093 MB
-Virtual Memory: Available: 3,031 MB
-Virtual Memory: In Use:    1,062 MB
+Virtual Memory: Available: 3,030 MB
+Virtual Memory: In Use:    1,063 MB
 Page File Location(s):     N/A
 Domain:                    WORKGROUP
 Logon Server:              \\LAPTOP-YK54HCX4
