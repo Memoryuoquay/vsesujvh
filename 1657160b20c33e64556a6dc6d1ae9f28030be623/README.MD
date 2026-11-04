@@ -1,6 +1,6 @@
 # systeminfo
 
-_Generated: 2026-11-04 08:15:38_
+_Generated: 2026-11-04 08:15:44_
 
 ```
 
@@ -28,10 +28,10 @@ System Locale:             en-us;English (United States)
 Input Locale:              en-us;English (United States)
 Time Zone:                 (UTC-08:00) Pacific Time (US & Canada)
 Total Physical Memory:     4,093 MB
-Available Physical Memory: 2,922 MB
+Available Physical Memory: 2,915 MB
 Virtual Memory: Max Size:  4,093 MB
-Virtual Memory: Available: 3,040 MB
-Virtual Memory: In Use:    1,053 MB
+Virtual Memory: Available: 3,036 MB
+Virtual Memory: In Use:    1,057 MB
 Page File Location(s):     N/A
 Domain:                    WORKGROUP
 Logon Server:              \\COMPUTER-PFK452
